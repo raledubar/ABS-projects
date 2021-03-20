@@ -12,7 +12,7 @@ class Collatz():
             elif(self.n % 2 == 1):
                 self.n = ( 3 * self.n) + 1
                 print(self.n)
-        print(self.n)
+ #       print(self.n)
         return self.n
 if __name__ == "__main__":
 
