@@ -1,5 +1,6 @@
 # The collatz sequence 
 #comment to check new github
+#check another comment
 
 class Collatz():
     def __init__(self, n:int) -> int:
